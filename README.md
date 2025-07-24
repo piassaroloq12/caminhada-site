@@ -80,7 +80,7 @@
   <main>
     <section>
       <h2>Informações do Evento</h2>
-      <p><strong>📅 Data:</strong> 10 de setembro</p>
+      <p><strong>📅 Data:</strong> 07 de setembro</p>
       <p><strong>💰 Valor:</strong> R$ 100,00 por pessoa</p>
       <p><strong>📝 Inscrições até:</strong> 10 de setembro</p>
     </section>
@@ -97,7 +97,7 @@
     </section>
 
     <section>
-      <h2>✅ Inscrição</h2>
+      <h2>✅ Inscrição ate o dia 01</h2>
       <form id="form-inscricao" onsubmit="enviarWhatsApp(); return false;">
         <input type="text" id="nome" placeholder="Nome completo" required>
         <input type="tel" id="telefone" placeholder="Telefone" required>
@@ -121,4 +121,3 @@
   </script>
 </body>
 </html>
-
